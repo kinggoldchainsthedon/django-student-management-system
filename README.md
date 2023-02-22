@@ -9,7 +9,7 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 ## Features of this Project
 
 ### A. Admin Users Can
-1. See Overall Summary Charts of Stuudents Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
+1. See Overall Summary Charts of Students Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
 2. Manage Staffs (Add, Update and Delete)
 3. Manage Students (Add, Update and Delete)
 4. Manage Course (Add, Update and Delete)
